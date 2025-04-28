@@ -37,7 +37,6 @@ def score(dice)
       hash[item.to_s.to_sym] += 1
     else hash[item.to_s.to_sym] = 1
     end
-    puts(hash)
   end
 
   hash.each do |key, value|
