@@ -3,5 +3,6 @@ dist
 .path_progress
 .rvmrc
 .ruby-version
+.idea
 *.rbc
 *~
